@@ -1,0 +1,9 @@
+.Header {
+    max-width: 1920px;
+    max-height: 157px;
+    padding: 0;
+    margin: 0;
+    background: rgba(0, 240, 255, 0.5);
+    border-radius: 5px;
+}
+
