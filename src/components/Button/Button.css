@@ -1,0 +1,7 @@
+.Button {
+    display: flex;
+    z-index: 99;
+
+    border-radius: 5px;
+    background: rgba(5, 43, 46, 0.8);
+}
