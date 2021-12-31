@@ -1,0 +1,19 @@
+.Products {
+    display: flex;
+}
+
+.Products-Principal {
+    display: flex;
+    flex-direction: column;
+}
+
+.Products-Principal h1 {
+    padding-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 33px;
+}
+
+
+.Products-Principal h2 {
+    padding-left: 20px;
+}

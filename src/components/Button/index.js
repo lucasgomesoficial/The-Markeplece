@@ -3,9 +3,8 @@ import "../Button/Button.css"
 
 const Button = () => {
     return (
-        <button className="Button">About us</button>
+        <button className="Button">It is already our customer?</button>
     )
 }
-
 
 export default Button;

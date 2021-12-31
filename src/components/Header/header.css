@@ -13,16 +13,14 @@
     background-image: url("../../assets/dan-gold-4_jhDO54BYg-unsplash\ 1.png");
 }
 
-.Header h1 {
-
-}
-
 .Header img {
     width: 100%;
     height: 100%;
 }
 
 .Header-Principal {
+    width: 1920px;
+    height: 157px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -40,6 +38,7 @@
 .Header-Principal h1 {
     font-size: 50px;
     color: white;
+    padding-left: 20px;
 }
 
 .Header-Meio {
@@ -48,6 +47,7 @@
     align-items: flex-start;
     justify-content: center;
     width: 512px;
+    height: 165px;;
     background: rgba(12, 104, 109, 0.5);
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
@@ -69,7 +69,8 @@
 
 .Header-Abaixo {
     display: flex;
-    height: 100px;
+    width: 1920px;
+    height: 157px;
     margin-bottom: 10vh;
     background: rgba(12, 104, 109, 0.5);
 }
