@@ -32,7 +32,7 @@ import Button from "../Button";
             </div>
         <div className="Header-Principal-Button Flex3">
                     <Button>It is already our customer?</Button>
-                    <Button />
+                    <Button>teste</Button>
                     <Button />
                </div>
         </div>
