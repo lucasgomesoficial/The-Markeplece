@@ -29,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e suas dependencias:
   - Html5
   - Css3
   - Javascript
-  - Typescript
 
 ---
 
