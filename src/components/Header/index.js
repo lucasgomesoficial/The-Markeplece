@@ -1,5 +1,5 @@
 import React from "react";
-import "./Header.css"
+import "./header.css"
 
 import img from "../../assets/dan-gold-4_jhDO54BYg-unsplash 1.png"
 import Button from "../Button";
